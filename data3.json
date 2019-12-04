@@ -1,0 +1,2103 @@
+{
+    "data": {
+        "returnflights": [], 
+        "onwardflights": [
+            {
+                "origin": "lucknow", 
+                "rating": "2.9", 
+                "DepartureTime": "20:00", 
+                "cancellationPolicy": "0:1:25:0;1:2:15:0;2:24:10:0;24:-1:0:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 18, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 4, 
+                "BusServiceID": "133899", 
+                "totalReviews": "15.0", 
+                "seat": "ST", 
+                "otgpolicy": "", 
+                "total_rating_count": "15.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_4.png"
+                ], 
+                "duration": "2h 15m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0p5V-WQVyjc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18165169", 
+                            "BPContactNumber": "18001802877", 
+                            "BPName": "18165169-Alambagh", 
+                            "BPTime": "2019-12-12T20:00:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "ALAMBAGH BUS STATION", 
+                            "BPLocation": "ALAMBAGH", 
+                            "BPAddress": "ALAMBAGH BUS STATION, Alambagh, Lucknow, Uttar Pradesh - 226005", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    3.0, 
+                    2.0, 
+                    2.0, 
+                    7.0, 
+                    1.0
+                ], 
+                "ArrivalTime": "22:15", 
+                "serviceNotes": "", 
+                "BaseCommission": 0.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "156", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "146.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "10.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "11044", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T22:15:00Z", 
+                            "BPContactNumber": "18001802877", 
+                            "DPName": "17937880-Others", 
+                            "DPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPLandmark": "KANPUR", 
+                            "BPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPContactNumber": "18001802877", 
+                            "BPLandmark": "KANPUR", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17937880", 
+                            "DPN": "Others", 
+                            "DPLocation": "KANPUR"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "JAN RATH A/C (2+2)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "156", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 36, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T20:00:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2073021, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Uttar Pradesh State Road Transport Corporation(UPSRTC)", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672073021", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-2000-UttarPradeshStateRoadTransportCorporationUPSRTC-JANRATHAC2+2", 
+                "arrdate": "2019-12-12T22:15:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.6", 
+                "DepartureTime": "15:01", 
+                "cancellationPolicy": "0:1:25:0;1:2:15:0;2:24:10:0;24:-1:0:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 19, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 5, 
+                "BusServiceID": "60460", 
+                "totalReviews": "68.0", 
+                "seat": "ST", 
+                "otgpolicy": "", 
+                "total_rating_count": "68.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_4.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_5.png"
+                ], 
+                "duration": "2h 0m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0p5V-WQVzjc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18165169", 
+                            "BPContactNumber": "18001802877", 
+                            "BPName": "18165169-Alambagh", 
+                            "BPTime": "2019-12-12T15:01:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "ALAMBAGH BUS STATION", 
+                            "BPLocation": "ALAMBAGH", 
+                            "BPAddress": "ALAMBAGH BUS STATION, Alambagh, Lucknow, Uttar Pradesh - 226005", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    19.0, 
+                    8.0, 
+                    6.0, 
+                    15.0, 
+                    20.0
+                ], 
+                "ArrivalTime": "17:01", 
+                "serviceNotes": "", 
+                "BaseCommission": 0.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "156", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "146.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "10.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "11044", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T17:01:00Z", 
+                            "BPContactNumber": "18001802877", 
+                            "DPName": "17937880-Others", 
+                            "DPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPLandmark": "KANPUR", 
+                            "BPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPContactNumber": "18001802877", 
+                            "BPLandmark": "KANPUR", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17937880", 
+                            "DPN": "Others", 
+                            "DPLocation": "KANPUR"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "SHATABDI AC (2+2)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "156", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 39, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T15:01:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2073025, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Uttar Pradesh State Road Transport Corporation(UPSRTC)", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672073025", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1501-UttarPradeshStateRoadTransportCorporationUPSRTC-SHATABDIAC2+2", 
+                "arrdate": "2019-12-12T17:01:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.6", 
+                "DepartureTime": "17:30", 
+                "cancellationPolicy": "0:8:100:0;8:12:60:0;12:24:40:0;24:48:30:0;48:-1:20:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 19, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 18, 
+                "BusServiceID": "39208", 
+                "totalReviews": "0.0", 
+                "seat": "SL", 
+                "otgpolicy": "", 
+                "total_rating_count": "0.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_4.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_5.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_6.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_7.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_8.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_9.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_10.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_11.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_12.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_13.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_14.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_15.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_16.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_17.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_411_18.png"
+                ], 
+                "duration": "2h 30m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0Z5X_WkY0Tc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "1560637", 
+                            "BPContactNumber": "9424388888, 8299797503,8933080139", 
+                            "BPName": "1560637-Sarojini Nagar", 
+                            "BPTime": "2019-12-12T17:30:00Z", 
+                            "BPN": "Sarojini Nagar", 
+                            "BPLandmark": "Shanti nagar, in front of haj house near sarojini nagar thana, lucknow", 
+                            "BPLocation": "Hans travels,shanti nagar, in front of haj house near sarojini nagar thana, lucknow", 
+                            "BPAddress": "Hans Travels, Shanti Nagar, In Front of Haj House Near Sarojini Nagar Thana, Lucknow", 
+                            "BPCoordinates": "26.74598259999999,80.86268640000003"
+                        }
+                    ]
+                }, 
+                "amenities": "Emergency Contact Number,Personal TV,Movie,Blankets,Charging Point,Reading Light,Toilet,Pillow", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ], 
+                "ArrivalTime": "20:00", 
+                "serviceNotes": "", 
+                "BaseCommission": 8.0, 
+                "gps": "true", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "1680", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "1600.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "80.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "8842", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T20:00:00Z", 
+                            "BPContactNumber": "", 
+                            "DPName": "17943171-Vijaynagar Road", 
+                            "DPAddress": "Vijay nagar faizganj", 
+                            "DPLandmark": "Vijay nagar faizganj", 
+                            "BPAddress": "Vijay nagar faizganj", 
+                            "DPContactNumber": "", 
+                            "BPLandmark": "Vijay nagar faizganj", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17943171", 
+                            "DPN": "Vijaynagar Road", 
+                            "DPLocation": "Vijay nagar faizganj"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "Volvo Multi-Axle A/C Sleeper (2+1)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "1680", 
+                            "busCondition": "ac", 
+                            "seatType": "Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 30, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T17:30:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 1097558, 
+                "busCompany": "volvo", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Hans   Travels", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232671097558", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1730-HansTravels-VolvoMulti-AxleACSleeper2+1", 
+                "arrdate": "2019-12-12T20:00:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.9", 
+                "DepartureTime": "22:35", 
+                "cancellationPolicy": "0:12:100:0;13:24:50:0;24:72:15:0;72:-1:10:0;", 
+                "max_seat": 6, 
+                "avlWindowSeats": 24, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": -1, 
+                "BusServiceID": "14", 
+                "totalReviews": "0.0", 
+                "seat": "SL", 
+                "otgpolicy": "", 
+                "total_rating_count": "0.0", 
+                "busImageURL": [], 
+                "duration": "1h 0m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k06RT92gTyzc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "20166648", 
+                            "BPContactNumber": "9462796174  8742027577  8742027571", 
+                            "BPName": "20166648-Others", 
+                            "BPTime": "2019-12-12T22:35:00Z", 
+                            "BPN": "Others", 
+                            "BPLandmark": "Below Muscle Town Gym", 
+                            "BPLocation": "9462796171 Behind Awadh Hospital Alambagh Neharia Chouraha", 
+                            "BPAddress": "BELOW MUSCLE TOWN GYM 150 METRES FROM ALAMBAGH NEHARIA CHOURAHA TO PARA ROAD", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "Water Bottle,Blankets,Charging Point", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ], 
+                "ArrivalTime": "23:35", 
+                "serviceNotes": "", 
+                "BaseCommission": 8.0, 
+                "gps": "true", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "1260", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "1200", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "60"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "19368", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T23:35:00Z", 
+                            "BPContactNumber": "9462796175 9462796171", 
+                            "DPName": "20166794-FAIZALGANJ", 
+                            "DPAddress": "FAIZALGANJ", 
+                            "DPLandmark": "Faizalganj", 
+                            "BPAddress": "FAIZALGANJ", 
+                            "DPContactNumber": "9462796175 9462796171", 
+                            "BPLandmark": "Faizalganj", 
+                            "DPCoordinates": ",", 
+                            "DPId": "20166794", 
+                            "DPN": "FAIZALGANJ", 
+                            "DPLocation": "FAIZALGANJ"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "A/C Sleeper (2+1)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "1260", 
+                            "busCondition": "ac", 
+                            "seatType": "Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 36, 
+                            "availabilityStatus": "Available"
+                        }, 
+                        {
+                            "SellFare": "1470", 
+                            "busCondition": "ac", 
+                            "seatType": "Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 36, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T22:35:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 3651402, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Sethi Yatra Company", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232673651402", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-2235-SethiYatraCompany-ACSleeper2+1", 
+                "arrdate": "2019-12-12T23:35:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.0", 
+                "DepartureTime": "19:00", 
+                "cancellationPolicy": "0:24:100:0;24:36:70:0;36:48:40:0;48:60:30:0;60:-1:10:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 26, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 4, 
+                "BusServiceID": "95842", 
+                "totalReviews": "0.0", 
+                "seat": "SLST", 
+                "otgpolicy": "", 
+                "total_rating_count": "0.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/18608_4_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/18608_4_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/18608_4_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/18608_4_4.png"
+                ], 
+                "duration": "2h 30m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k06JX_20czDc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "20237724", 
+                            "BPContactNumber": "9274725625", 
+                            "BPName": "20237724-Transport Nagar", 
+                            "BPTime": "2019-12-12T19:00:00Z", 
+                            "BPN": "Transport Nagar", 
+                            "BPLandmark": "TRANSPORT NAGAR RTO", 
+                            "BPLocation": "TRANSPORT NAGAR PARKING NO 10", 
+                            "BPAddress": "LUCKNOW", 
+                            "BPCoordinates": "26.7785214,80.89173529999994"
+                        }
+                    ]
+                }, 
+                "amenities": "Emergency Contact Number,Water Bottle,Blankets,Charging Point,Reading Light,Pillow", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ], 
+                "ArrivalTime": "21:30", 
+                "serviceNotes": "", 
+                "BaseCommission": 8.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "350", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "350", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "0.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "18608", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T21:30:00Z", 
+                            "BPContactNumber": "", 
+                            "DPName": "19606240-Others", 
+                            "DPAddress": "Bus stand", 
+                            "DPLandmark": "Bus stand", 
+                            "BPAddress": "Bus stand", 
+                            "DPContactNumber": "", 
+                            "BPLandmark": "Bus stand", 
+                            "DPCoordinates": ",", 
+                            "DPId": "19606240", 
+                            "DPN": "Others", 
+                            "DPLocation": "Bus stand"
+                        }, 
+                        {
+                            "DPTime": "2019-12-12T21:35:00Z", 
+                            "BPContactNumber": "", 
+                            "DPName": "19720924-Faizalganj", 
+                            "DPAddress": "Fazalganj", 
+                            "DPLandmark": "Fazalganj", 
+                            "BPAddress": "Fazalganj", 
+                            "DPContactNumber": "", 
+                            "BPLandmark": "Fazalganj", 
+                            "DPCoordinates": ",", 
+                            "DPId": "19720924", 
+                            "DPN": "Faizalganj", 
+                            "DPLocation": "Fazalganj"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "A/C Seater / Sleeper (2+1)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "350", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater/Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 40, 
+                            "availabilityStatus": "Available"
+                        }, 
+                        {
+                            "SellFare": "650", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater/Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 40, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T19:00:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 3499993, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Pitambra Travels", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232673499993", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1900-PitambraTravels-ACSeaterSleeper2+1", 
+                "arrdate": "2019-12-12T21:30:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.6", 
+                "DepartureTime": "17:00", 
+                "cancellationPolicy": "0:8:100:0;8:12:60:0;12:24:40:0;24:48:30:0;48:-1:20:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 16, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 6, 
+                "BusServiceID": "91863", 
+                "totalReviews": "0.0", 
+                "seat": "SL", 
+                "otgpolicy": "", 
+                "total_rating_count": "0.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_54_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_54_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_54_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_54_4.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_54_5.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_54_6.png"
+                ], 
+                "duration": "2h 30m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k059V_GUZyzc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "1560637", 
+                            "BPContactNumber": "9424388888, 8299797503,8933080139", 
+                            "BPName": "1560637-Sarojini Nagar", 
+                            "BPTime": "2019-12-12T17:00:00Z", 
+                            "BPN": "Sarojini Nagar", 
+                            "BPLandmark": "Shanti nagar, in front of haj house near sarojini nagar thana, lucknow", 
+                            "BPLocation": "Hans travels,shanti nagar, in front of haj house near sarojini nagar thana, lucknow", 
+                            "BPAddress": "Hans Travels, Shanti Nagar, In Front of Haj House Near Sarojini Nagar Thana, Lucknow", 
+                            "BPCoordinates": "26.74598259999999,80.86268640000003"
+                        }
+                    ]
+                }, 
+                "amenities": "Emergency Contact Number,Movie,Charging Point,Reading Light,Toilet,Pillow", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ], 
+                "ArrivalTime": "19:30", 
+                "serviceNotes": "", 
+                "BaseCommission": 8.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "1470", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "1400.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "70.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "8842", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T19:30:00Z", 
+                            "BPContactNumber": "", 
+                            "DPName": "17943171-Vijaynagar Road", 
+                            "DPAddress": "Vijay nagar faizganj", 
+                            "DPLandmark": "Vijay nagar faizganj", 
+                            "BPAddress": "Vijay nagar faizganj", 
+                            "DPContactNumber": "", 
+                            "BPLandmark": "Vijay nagar faizganj", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17943171", 
+                            "DPN": "Vijaynagar Road", 
+                            "DPLocation": "Vijay nagar faizganj"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "A/C Sleeper (2+1)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "1470", 
+                            "busCondition": "ac", 
+                            "seatType": "Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 24, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T17:00:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 3176162, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Hans   Travels", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232673176162", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1700-HansTravels-ACSleeper2+1", 
+                "arrdate": "2019-12-12T19:30:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.3", 
+                "DepartureTime": "18:30", 
+                "cancellationPolicy": "0:12:100:0;12:24:50:0;24:-1:25:0;", 
+                "max_seat": 6, 
+                "avlWindowSeats": 24, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 2, 
+                "BusServiceID": "242", 
+                "totalReviews": "0.0", 
+                "seat": "SL", 
+                "otgpolicy": "", 
+                "total_rating_count": "0.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/16132_54_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/16132_54_2.png"
+                ], 
+                "duration": "2h 15m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k059T_W0U0Dc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18150255", 
+                            "BPContactNumber": "8696694777", 
+                            "BPName": "18150255-Transport Nagar", 
+                            "BPTime": "2019-12-12T18:30:00Z", 
+                            "BPN": "Transport Nagar", 
+                            "BPLandmark": "Shree Rishab Travels Parking No.10 Transport Nagar", 
+                            "BPLocation": "Shree rishab travels parking no.10 transport nagar", 
+                            "BPAddress": "Jai shrinath ji ki travels, Jai shrinath ji ki travels", 
+                            "BPCoordinates": "26.7785214,80.89173529999994"
+                        }
+                    ]
+                }, 
+                "amenities": "Emergency Contact Number,Water Bottle,Blankets,Charging Point,Reading Light,Pillow", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ], 
+                "ArrivalTime": "20:45", 
+                "serviceNotes": "", 
+                "BaseCommission": 8.0, 
+                "gps": "true", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "367", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "350.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "17"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "16132", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T20:45:00Z", 
+                            "BPContactNumber": "7459018201", 
+                            "DPName": "18658832-Others", 
+                            "DPAddress": "Fazalganj circle", 
+                            "DPLandmark": "Fajalganj Circle", 
+                            "BPAddress": "Fazalganj circle", 
+                            "DPContactNumber": "7459018201", 
+                            "BPLandmark": "Fajalganj Circle", 
+                            "DPCoordinates": ",", 
+                            "DPId": "18658832", 
+                            "DPN": "Others", 
+                            "DPLocation": "Faazalganj circle shri rishab travels"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "A/C Sleeper (2+1)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "367", 
+                            "busCondition": "ac", 
+                            "seatType": "Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 36, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T18:30:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 3157917, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Jai Shrinath ji ki Travels", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232673157917", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1830-JaiShrinathjikiTravels-ACSleeper2+1", 
+                "arrdate": "2019-12-12T20:45:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "0", 
+                "DepartureTime": "22:44", 
+                "cancellationPolicy": "0:1:25:0;1:2:15:0;2:24:10:0;24:-1:0:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 19, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 5, 
+                "BusServiceID": "142536", 
+                "totalReviews": "null", 
+                "seat": "ST", 
+                "otgpolicy": "", 
+                "total_rating_count": "0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_4.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_5.png"
+                ], 
+                "duration": "1h 46m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0qZX92YczDc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18165169", 
+                            "BPContactNumber": "18001802877", 
+                            "BPName": "18165169-Alambagh", 
+                            "BPTime": "2019-12-12T22:44:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "ALAMBAGH BUS STATION", 
+                            "BPLocation": "ALAMBAGH", 
+                            "BPAddress": "ALAMBAGH BUS STATION, Alambagh, Lucknow, Uttar Pradesh - 226005", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [], 
+                "ArrivalTime": "00:30", 
+                "serviceNotes": "", 
+                "BaseCommission": 0.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "156", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "146.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "10.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "11044", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-14T00:30:00Z", 
+                            "BPContactNumber": "18001802877", 
+                            "DPName": "17937880-Others", 
+                            "DPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPLandmark": "KANPUR", 
+                            "BPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPContactNumber": "18001802877", 
+                            "BPLandmark": "KANPUR", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17937880", 
+                            "DPN": "Others", 
+                            "DPLocation": "KANPUR"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "SHATABDI AC (2+2)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "156", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 39, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T22:44:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2891293, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Uttar Pradesh State Road Transport Corporation(UPSRTC)", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672891293", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-2244-UttarPradeshStateRoadTransportCorporationUPSRTC-SHATABDIAC2+2", 
+                "arrdate": "2019-12-13T00:30:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.6", 
+                "DepartureTime": "16:01", 
+                "cancellationPolicy": "0:8:100:0;8:12:60:0;12:24:40:0;24:48:30:0;48:-1:20:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 16, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 4, 
+                "BusServiceID": "85886", 
+                "totalReviews": "0.0", 
+                "seat": "SL", 
+                "otgpolicy": "", 
+                "total_rating_count": "0.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_35_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_35_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_35_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8842_35_4.png"
+                ], 
+                "duration": "2h 30m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0qVS_GoWyjc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "nonac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "1560637", 
+                            "BPContactNumber": "9424388888, 8299797503,8933080139", 
+                            "BPName": "1560637-Sarojini Nagar", 
+                            "BPTime": "2019-12-12T16:01:00Z", 
+                            "BPN": "Sarojini Nagar", 
+                            "BPLandmark": "Shanti nagar, in front of haj house near sarojini nagar thana, lucknow", 
+                            "BPLocation": "Hans travels,shanti nagar, in front of haj house near sarojini nagar thana, lucknow", 
+                            "BPAddress": "Hans Travels, Shanti Nagar, In Front of Haj House Near Sarojini Nagar Thana, Lucknow", 
+                            "BPCoordinates": "26.74598259999999,80.86268640000003"
+                        }
+                    ]
+                }, 
+                "amenities": "Emergency Contact Number,Charging Point,Reading Light,Toilet", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ], 
+                "ArrivalTime": "18:31", 
+                "serviceNotes": "", 
+                "BaseCommission": 8.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "1100", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "1100.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "0.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "8842", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T18:31:00Z", 
+                            "BPContactNumber": "", 
+                            "DPName": "17943171-Vijaynagar Road", 
+                            "DPAddress": "Vijay nagar faizganj", 
+                            "DPLandmark": "Vijay nagar faizganj", 
+                            "BPAddress": "Vijay nagar faizganj", 
+                            "DPContactNumber": "", 
+                            "BPLandmark": "Vijay nagar faizganj", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17943171", 
+                            "DPN": "Vijaynagar Road", 
+                            "DPLocation": "Vijay nagar faizganj"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "NON A/C Sleeper (2+1)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "1100", 
+                            "busCondition": "nonac", 
+                            "seatType": "Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 24, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T16:01:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2746631, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Hans   Travels", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672746631", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1601-HansTravels-NONACSleeper2+1", 
+                "arrdate": "2019-12-12T18:31:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "2.5", 
+                "DepartureTime": "19:00", 
+                "cancellationPolicy": "0:1:25:0;1:2:15:0;2:24:10:0;24:-1:0:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 19, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 5, 
+                "BusServiceID": "142355", 
+                "totalReviews": "16.0", 
+                "seat": "ST", 
+                "otgpolicy": "", 
+                "total_rating_count": "16.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_4.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_5.png"
+                ], 
+                "duration": "2h 30m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0qVO-2gYzDc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18165169", 
+                            "BPContactNumber": "18001802877", 
+                            "BPName": "18165169-Alambagh", 
+                            "BPTime": "2019-12-12T19:00:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "ALAMBAGH BUS STATION", 
+                            "BPLocation": "ALAMBAGH", 
+                            "BPAddress": "ALAMBAGH BUS STATION, Alambagh, Lucknow, Uttar Pradesh - 226005", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    7.0, 
+                    1.0, 
+                    2.0, 
+                    3.0, 
+                    3.0
+                ], 
+                "ArrivalTime": "21:30", 
+                "serviceNotes": "", 
+                "BaseCommission": 0.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "159", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "149.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "10.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "11044", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T21:30:00Z", 
+                            "BPContactNumber": "18001802877", 
+                            "DPName": "17937880-Others", 
+                            "DPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPLandmark": "KANPUR", 
+                            "BPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPContactNumber": "18001802877", 
+                            "BPLandmark": "KANPUR", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17937880", 
+                            "DPN": "Others", 
+                            "DPLocation": "KANPUR"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "SHATABDI AC (2+2)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "159", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 39, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T19:00:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2705453, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Uttar Pradesh State Road Transport Corporation(UPSRTC)", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672705453", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1900-UttarPradeshStateRoadTransportCorporationUPSRTC-SHATABDIAC2+2", 
+                "arrdate": "2019-12-12T21:30:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "0", 
+                "DepartureTime": "20:20", 
+                "cancellationPolicy": "0:1:25:0;1:2:15:0;2:24:10:0;24:-1:0:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 18, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 4, 
+                "BusServiceID": "131942", 
+                "totalReviews": "null", 
+                "seat": "ST", 
+                "otgpolicy": "", 
+                "total_rating_count": "0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_4.png"
+                ], 
+                "duration": "2h 0m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0qRU_W0Xyzc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18165169", 
+                            "BPContactNumber": "18001802877", 
+                            "BPName": "18165169-Alambagh", 
+                            "BPTime": "2019-12-12T20:20:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "ALAMBAGH BUS STATION", 
+                            "BPLocation": "ALAMBAGH", 
+                            "BPAddress": "ALAMBAGH BUS STATION, Alambagh, Lucknow, Uttar Pradesh - 226005", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [], 
+                "ArrivalTime": "22:20", 
+                "serviceNotes": "", 
+                "BaseCommission": 0.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "153", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "143.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "10.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "11044", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T22:20:00Z", 
+                            "BPContactNumber": "18001802877", 
+                            "DPName": "17937880-Others", 
+                            "DPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPLandmark": "KANPUR", 
+                            "BPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPContactNumber": "18001802877", 
+                            "BPLandmark": "KANPUR", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17937880", 
+                            "DPN": "Others", 
+                            "DPLocation": "KANPUR"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "JAN RATH A/C (2+2)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "153", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 36, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T20:20:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2667942, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Uttar Pradesh State Road Transport Corporation(UPSRTC)", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672667942", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-2020-UttarPradeshStateRoadTransportCorporationUPSRTC-JANRATHAC2+2", 
+                "arrdate": "2019-12-12T22:20:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.2", 
+                "DepartureTime": "13:00", 
+                "cancellationPolicy": "0:1:25:0;1:2:15:0;2:24:10:0;24:-1:0:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 18, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 2, 
+                "BusServiceID": "141768", 
+                "totalReviews": "33.0", 
+                "seat": "ST", 
+                "otgpolicy": "", 
+                "total_rating_count": "33.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_138_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_138_2.png"
+                ], 
+                "duration": "1h 59m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0qNQ_GoY0Tc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18165169", 
+                            "BPContactNumber": "18001802877", 
+                            "BPName": "18165169-Alambagh", 
+                            "BPTime": "2019-12-12T13:00:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "ALAMBAGH BUS STATION", 
+                            "BPLocation": "ALAMBAGH", 
+                            "BPAddress": "ALAMBAGH BUS STATION, Alambagh, Lucknow, Uttar Pradesh - 226005", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    8.0, 
+                    0.0, 
+                    10.0, 
+                    10.0, 
+                    5.0
+                ], 
+                "ArrivalTime": "14:59", 
+                "serviceNotes": "", 
+                "BaseCommission": 0.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "137", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "128.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "9.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "11044", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T14:59:00Z", 
+                            "BPContactNumber": "18001802877", 
+                            "DPName": "17937880-Others", 
+                            "DPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPLandmark": "KANPUR", 
+                            "BPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPContactNumber": "18001802877", 
+                            "BPLandmark": "KANPUR", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17937880", 
+                            "DPN": "Others", 
+                            "DPLocation": "KANPUR"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "A/C Seater (2+3)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "137", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 47, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T13:00:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2526658, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Uttar Pradesh State Road Transport Corporation(UPSRTC)", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672526658", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1300-UttarPradeshStateRoadTransportCorporationUPSRTC-ACSeater2+3", 
+                "arrdate": "2019-12-12T14:59:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "4.3", 
+                "DepartureTime": "19:30", 
+                "cancellationPolicy": "0:1:100:0;1:3:50:0;3:-1:25:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 19, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 3, 
+                "BusServiceID": "62632", 
+                "totalReviews": "21.0", 
+                "seat": "SL", 
+                "otgpolicy": "", 
+                "total_rating_count": "21.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8571_54_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8571_54_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/8571_54_3.png"
+                ], 
+                "duration": "2h 30m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0qJW92oazjc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "1761518", 
+                            "BPContactNumber": "9936715939,9554980496", 
+                            "BPName": "1761518-Alambagh", 
+                            "BPTime": "2019-12-12T19:30:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "Parking no 10", 
+                            "BPLocation": "Transport nagar parking no-10", 
+                            "BPAddress": "transport nagar parking no 10,lucknow,up", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    1.0, 
+                    2.0, 
+                    0.0, 
+                    4.0, 
+                    14.0
+                ], 
+                "ArrivalTime": "22:00", 
+                "serviceNotes": "", 
+                "BaseCommission": 8.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "235", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "224.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "11"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "8571", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T22:00:00Z", 
+                            "BPContactNumber": "", 
+                            "DPName": "17936374-Faizalganj", 
+                            "DPAddress": "Fazalganj", 
+                            "DPLandmark": "Fazalganj", 
+                            "BPAddress": "Fazalganj", 
+                            "DPContactNumber": "", 
+                            "BPLandmark": "Fazalganj", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17936374", 
+                            "DPN": "Faizalganj", 
+                            "DPLocation": "Fazalganj"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "A/C Sleeper (2+1)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "235", 
+                            "busCondition": "ac", 
+                            "seatType": "Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 33, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T19:30:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2481675, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Samay Shatabdi Travels Pvt Ltd", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672481675", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1930-SamayShatabdiTravelsPvtLtd-ACSleeper2+1", 
+                "arrdate": "2019-12-12T22:00:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "3.4", 
+                "DepartureTime": "18:45", 
+                "cancellationPolicy": "0:5:100:0;5:10:50:0;10:24:25:0;24:48:10:0;48:-1:10:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 19, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 6, 
+                "BusServiceID": "78905", 
+                "totalReviews": "0.0", 
+                "seat": "SLST", 
+                "otgpolicy": "", 
+                "total_rating_count": "0.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/10069_4_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/10069_4_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/10069_4_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/10069_4_4.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/10069_4_5.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/10069_4_6.png"
+                ], 
+                "duration": "2h 30m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0qFT92wbyjc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18484945", 
+                            "BPContactNumber": "8090285368", 
+                            "BPName": "18484945-Transport Nagar", 
+                            "BPTime": "2019-12-12T18:45:00Z", 
+                            "BPN": "Transport Nagar", 
+                            "BPLandmark": "Transport nagar, oppiste metro station  ", 
+                            "BPLocation": " transport nagar,parking no-10 ", 
+                            "BPAddress": "BABU TRAVELS\r\nTransport Nager Parking No-10 , \r\nLUCKNOW (u.p)\r\nph-80902-85368 ,98291-15053\r\n", 
+                            "BPCoordinates": "26.7785214,80.89173529999994"
+                        }
+                    ]
+                }, 
+                "amenities": "Emergency Contact Number,Water Bottle,Blankets,Charging Point,Reading Light,Wet Napkin,CCTV,Pillow", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    0, 
+                    0, 
+                    0, 
+                    0, 
+                    0
+                ], 
+                "ArrivalTime": "21:15", 
+                "serviceNotes": "", 
+                "BaseCommission": 8.0, 
+                "gps": "true", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "500", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "500", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "0.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "10069", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-12T21:15:00Z", 
+                            "BPContactNumber": "", 
+                            "DPName": "18859068-Faizalganj", 
+                            "DPAddress": "Kalpana kamla travels fazalganj churaha", 
+                            "DPLandmark": "Kalpana kamla travels fazalganj churaha", 
+                            "BPAddress": "Kalpana kamla travels fazalganj churaha", 
+                            "DPContactNumber": "", 
+                            "BPLandmark": "Kalpana kamla travels fazalganj churaha", 
+                            "DPCoordinates": ",", 
+                            "DPId": "18859068", 
+                            "DPN": "Faizalganj", 
+                            "DPLocation": "Kalpana kamla travels fazalganj churaha"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "A/C Seater / Sleeper (2+1)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "500", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater/Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 31, 
+                            "availabilityStatus": "Available"
+                        }, 
+                        {
+                            "SellFare": "700", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater/Sleeper", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 31, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T18:45:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2351881, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Babu  Travels", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672351881", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-1845-BabuTravels-ACSeaterSleeper2+1", 
+                "arrdate": "2019-12-12T21:15:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "0", 
+                "DepartureTime": "03:16", 
+                "cancellationPolicy": "0:1:25:0;1:2:15:0;2:24:10:0;24:-1:0:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 18, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 5, 
+                "BusServiceID": "60458", 
+                "totalReviews": "null", 
+                "seat": "ST", 
+                "otgpolicy": "", 
+                "total_rating_count": "0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_4.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_471_5.png"
+                ], 
+                "duration": "26h 45m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0p5V-WYTyjc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18165169", 
+                            "BPContactNumber": "18001802877", 
+                            "BPName": "18165169-Alambagh", 
+                            "BPTime": "2019-12-12T03:16:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "ALAMBAGH BUS STATION", 
+                            "BPLocation": "ALAMBAGH", 
+                            "BPAddress": "ALAMBAGH BUS STATION, Alambagh, Lucknow, Uttar Pradesh - 226005", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [], 
+                "ArrivalTime": "06:01", 
+                "serviceNotes": "", 
+                "BaseCommission": 0.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "163", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "152.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "11.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "11044", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-14T06:01:00Z", 
+                            "BPContactNumber": "18001802877", 
+                            "DPName": "17937880-Others", 
+                            "DPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPLandmark": "KANPUR", 
+                            "BPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPContactNumber": "18001802877", 
+                            "BPLandmark": "KANPUR", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17937880", 
+                            "DPN": "Others", 
+                            "DPLocation": "KANPUR"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "SHATABDI AC (2+2)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "163", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 37, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T03:16:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2073201, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Uttar Pradesh State Road Transport Corporation(UPSRTC)", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672073201", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-0316-UttarPradeshStateRoadTransportCorporationUPSRTC-SHATABDIAC2+2", 
+                "arrdate": "2019-12-13T06:01:00Z"
+            }, 
+            {
+                "origin": "lucknow", 
+                "rating": "1.5", 
+                "DepartureTime": "23:15", 
+                "cancellationPolicy": "0:1:25:0;1:2:15:0;2:24:10:0;24:-1:0:0", 
+                "max_seat": 6, 
+                "avlWindowSeats": 18, 
+                "impulse_perc_seats": 0, 
+                "busImageCount": 4, 
+                "BusServiceID": "100786", 
+                "totalReviews": "7.0", 
+                "seat": "ST", 
+                "otgpolicy": "", 
+                "total_rating_count": "7.0", 
+                "busImageURL": [
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_1.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_2.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_3.png", 
+                    "https://s3-ap-southeast-1.amazonaws.com/rbplus/BusImage/Domestic/11044_474_4.png"
+                ], 
+                "duration": "1h 51m", 
+                "qtype": "bus", 
+                "AvailCatCard": false, 
+                "skey": "xrJrLDo1oedAxKCKIOPN3_0V6dMKnJNMMp7k0p5V-WUc0jc9Eww-7nLdgbubveJxMSDn0-N8Lg==", 
+                "busCondition": "ac", 
+                "isSingleLadies": false, 
+                "levyFee": 0.0, 
+                "destination": "kanpur", 
+                "restStops": [
+                    {}
+                ], 
+                "zeroCancellationTime": 0, 
+                "BPPrims": {
+                    "list": [
+                        {
+                            "BPId": "18165169", 
+                            "BPContactNumber": "18001802877", 
+                            "BPName": "18165169-Alambagh", 
+                            "BPTime": "2019-12-12T23:15:00Z", 
+                            "BPN": "Alambagh", 
+                            "BPLandmark": "ALAMBAGH BUS STATION", 
+                            "BPLocation": "ALAMBAGH", 
+                            "BPAddress": "ALAMBAGH BUS STATION, Alambagh, Lucknow, Uttar Pradesh - 226005", 
+                            "BPCoordinates": ","
+                        }
+                    ]
+                }, 
+                "amenities": "NA", 
+                "src_vendor_id": "1337", 
+                "dest_voyager_id": "8312659373678178248", 
+                "ratingsBreakUp": [
+                    3.0, 
+                    1.0, 
+                    2.0, 
+                    1.0, 
+                    0.0
+                ], 
+                "ArrivalTime": "01:06", 
+                "serviceNotes": "", 
+                "BaseCommission": 0.0, 
+                "gps": "false", 
+                "fare": {
+                    "adultservicetax": "0", 
+                    "adultcommission": "0", 
+                    "adultbasefare": "0", 
+                    "adultsurcharge": "0", 
+                    "totalfare": "156", 
+                    "discount": "0", 
+                    "totalsurcharge": "0", 
+                    "totalcommission": "0", 
+                    "transactionfee": "0", 
+                    "totalbasefare": "146.0", 
+                    "adulttotalfare": "0", 
+                    "servicetax": "10.0"
+                }, 
+                "dst_vendor_id": "1327", 
+                "OperatorID": "11044", 
+                "DPPrims": {
+                    "list": [
+                        {
+                            "DPTime": "2019-12-14T01:06:00Z", 
+                            "BPContactNumber": "18001802877", 
+                            "DPName": "17937880-Others", 
+                            "DPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPLandmark": "KANPUR", 
+                            "BPAddress": "NH 25, Saina Purwa, Cooperganj, Kanpur, Uttar Pradesh 208004", 
+                            "DPContactNumber": "18001802877", 
+                            "BPLandmark": "KANPUR", 
+                            "DPCoordinates": ",", 
+                            "DPId": "17937880", 
+                            "DPN": "Others", 
+                            "DPLocation": "KANPUR"
+                        }
+                    ]
+                }, 
+                "mTicket": "true", 
+                "row_type": "onwardflights", 
+                "BusType": "JAN RATH A/C (2+2)", 
+                "busRoutes": "", 
+                "RouteSeatTypeDetail": {
+                    "list": [
+                        {
+                            "SellFare": "156", 
+                            "busCondition": "ac", 
+                            "seatType": "Seater", 
+                            "seatTypeSpecific": "Seat", 
+                            "SeatsAvailable": 36, 
+                            "availabilityStatus": "Available"
+                        }
+                    ]
+                }, 
+                "depdate": "2019-12-12T23:15:00Z", 
+                "idRequired": "false", 
+                "ServiceID": 2073199, 
+                "busCompany": "other", 
+                "bpDpSeatLayout": false, 
+                "src_voyager_id": "9114123290289445387", 
+                "ontime": false, 
+                "TravelsName": "Uttar Pradesh State Road Transport Corporation(UPSRTC)", 
+                "tbrequired": "1", 
+                "farebasis": "0", 
+                "RouteID": "1001655232672073199", 
+                "ServiceName": "lucknow to kanpur", 
+                "isAvailSrCitizen": false, 
+                "srtFee": 0.0, 
+                "partialCancellationAllowed": "false", 
+                "ugcid": "lucknow-kanpur-2315-UttarPradeshStateRoadTransportCorporationUPSRTC-JANRATHAC2+2", 
+                "arrdate": "2019-12-13T01:06:00Z"
+            }
+        ]
+    }
+}
